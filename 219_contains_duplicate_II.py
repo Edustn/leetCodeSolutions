@@ -11,5 +11,5 @@ class Solution:
                     return True
             historic[element] = index
 
-
+    
         return False
